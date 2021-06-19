@@ -3,7 +3,7 @@
 INSERT INTO publisher(name,country) VALUES("PHI","India");
 INSERT INTO publisher(name,country) VALUES("Harper","USA");
 INSERT INTO publisher(name,country) VALUES("GCP","USA");
-INSERT INTO publisher(name,country) VALUES("Avery","USA");
+INSERT INTO publisher(name,country) VALUES("Atomic Habits","USA");
 INSERT INTO publisher(name,country) VALUES("Del Rey","UK");
 INSERT INTO publisher(name,country) VALUES("Vintage","UK");
 
