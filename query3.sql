@@ -1,0 +1,1 @@
+select  b.title from books b, books_subjects bks, subjects s where b.id  = bks.book and s.id = bks.subject and (s.name = "Technology" or s.name = "Politics");

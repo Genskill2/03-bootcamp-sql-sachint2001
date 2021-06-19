@@ -1,0 +1,1 @@
+select s.name from subjects s, books b, books_subjects bks where bks.book = b.id and bks.subject = s.id and b.title = "Atomic Habits";
